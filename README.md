@@ -1,12 +1,16 @@
 ##### Return to [About Me](https://pacman715.github.io/pcabano-portfolio/)
 
-Through the first six weeks of IT0075 - Python for many uses, which makes up Unit 1, we developed a foundation for programming in Python.  In this section, Fundamentals of Programmin in Python I have included a chronological representation of the materials covered.  Because the material covered each week is used to build off of in subsequent weeks, it seemed to be the most logical format.  Below, you will find a high level synopsis of the material covered for the week along with a link to the project(s) completed.  Each project is developed to demonstrate the techniques learned.  All of the projects culminate to the Week 6 project in which we created a password manager.  While the program is rudementary, it utilizes all of the skills that were taught throughout the first section of the class and is what I am most proud of so far.
+Through the first six weeks of IT0075 - Python for many uses, which makes up Unit 1, we developed a foundation for programming in Python.  In this section, I have included a chronological representation of the skills learned.  Because the material covered each week is used to build off of in subsequent weeks, it seemed to be the most logical format.  Below, you will find a high level synopsis of the lessons covered for the week along with a link to the project(s) completed.  Each project is developed to demonstrate the techniques learned.  All of the projects culminate into the Week 6 project in which we created a password manager.  
+
+While the program is rudementary, it utilizes all of the skills that were taught throughout the first section of the class and is what I am most proud of thus far.  The single most important take-away from this section of the portfolio is the evolution of coding techniques and practices from week to week.  Through my experience in software development, demonstrating the ability to take one idea or skill and continuously develop and grow it is how we as software developers evolve, as demonstrated below.
 
 ### Week 1
 
 As one might imagine, the first week of the class discussed how to develop your first program.  As in most programming classes, one of the first programs developed is 'Hello World', in which you print the words Hello World.  In Python, this is achieved througn the 'print' statement.  The Week 1 project called for the use of the Turtle graphic system.  While reviewing the code, you might notice that each line  appears to be redundant of the next.  This being said, I would like to most improve this program with techniques learned in week two, namely the use of for and while loops.
 
-##### 1. [Turtle.py](https://github.com/pacman715/python_fundamentals/blob/master/Unit%201/Week%201/Hello%20Turtle.py)
+##### [Turtle.py](https://github.com/pacman715/python_fundamentals/blob/master/Unit%201/Week%201/Hello%20Turtle.py)
+
+### Week 2
 
 
 
@@ -21,6 +25,3 @@ As one might imagine, the first week of the class discussed how to develop your 
 • Why did you select this piece of work?
 • What was particularly important to you during the process of creating this work?
 • How does this relate to what you have learned before?
-• Which piece would you most like to improve? Why?
-• What is the one thing you would like someone to notice about your portfolio? Why?
-• Do you feel that this collection of work really reflects your abilities and what you have achieved so far this year? Why or why not?

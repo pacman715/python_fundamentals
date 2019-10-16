@@ -2,6 +2,12 @@ Through the first six weeks of IT0075 - Python for many uses, which makes up Uni
 
 ### Week 1
 
+As one might imagine, the first week of the class discussed how to develop your first program.  As in most programming classes, one of the first programs developed is 'Hello World', in which you print the words Hello World.  In Python, this is achieved througn the 'print' statement.  The Week 1 project called for the use of the Turtle graphic system.  While reviewing the code, you might notice that each line  appears to be redundant of the next.  This being said, I would like to most improve this program with techniques learned in week two, namely the use of for and while loops.
+
+##### 1. [Turtle.py](https://pacman715.github.io/python_fundamentals/Unit 1/Week 1)
+
+
+
 • Which piece in your portfolio are you most proud of? Why?
 • What piece would you like to remove from this collection? Why?
 • What makes this your best piece?

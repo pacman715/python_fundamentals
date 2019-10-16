@@ -1,4 +1,4 @@
-## Fundamentals of Programming in Python
+## Unit 1
 Through the first six weeks of IT0075 - Python for many uses, which makes up Unit 1, we developed a foundation for programming in Python.  In this section, Fundamentals of Programmin in Python I have included a chronological representation of the materials covered.  Because the material covered each week is used to build off of in subsequent weeks, it seemed to be the most logical format.
 ### Week 1
 

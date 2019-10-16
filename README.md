@@ -1,4 +1,4 @@
-##### Return to [About Me](https://pacman715.github.io/pcabano_portfolio/)
+##### Return to [About Me](https://pacman715.github.io/pcabano_portfolio)
 
 Through the first six weeks of IT0075 - Python for many uses, which makes up Unit 1, we developed a foundation for programming in Python.  In this section, Fundamentals of Programmin in Python I have included a chronological representation of the materials covered.  Because the material covered each week is used to build off of in subsequent weeks, it seemed to be the most logical format.  Below, you will find a high level synopsis of the material covered for the week along with a link to the project(s) completed.  Each project is developed to demonstrate the techniques learned.  All of the projects culminate to the Week 6 project in which we created a password manager.  While the program is rudementary, it utilizes all of the skills that were taught throughout the first section of the class and is what I am most proud of so far.
 

@@ -46,7 +46,7 @@ Week 5 program(s) found in repository below:
 
 The last week of Unit 1 allowed the class to pull all of their newly attained knowledge together into one program.  Here, we built a password manager, which because of the utilization of all of the techniques in my toolbox and the utility of the program would be my best piece and the one I am most proud of.  
 
-When building this, my partner and I mapped out the requirements and built each function seperately.  It was very important to chunk out the work and complete it incrementally becasue it allowed us to build code and reuse some funtions as needed.  As we completed each, we tested different scenarios and fixed any errors that we found.  Below is a sample of code that we were able to build once and reuse multiple times:
+When building this, my partner and I mapped out the requirements and built each function seperately.  It was very important to chunk out the work and complete it incrementally becasue it allowed us to build code and reuse some funtions as needed.  As we completed each, we tested different scenarios and fixed any errors that we found.  Below is a sample of code (functions) that we were able to build once and reuse multiple times:
 
 ```python
 # encrypts passwords
@@ -66,7 +66,7 @@ def decrypt (string):
             index = key.index(i)
             result = result + alphabet[index]
     return result
-    ```
+```
 
 There really was not one single problem that we encountered because if we were unsure as to how to complete or develop an idea, we were able to find help on the internet.  Our password manager was extremely important because we were able to implement all of the different things we had learned previously.  I would hope that when reviewing this code and comparing it to my Turtle.py program, it would be easy to see the evolution from my weakest to strongest pieces.
 

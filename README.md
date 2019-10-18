@@ -16,31 +16,31 @@ Week 1 program(s) found in repository below:
 In this week, we continued to build upon our simple print statements and stared adding logic and conditional statements buy studying flow control.  Understanding flow control is very important because this is when you start to think like a program would, per se. Flow control is displayed in "if - then" statements as well as "for" and "while" loops.  As mentioned before, these techniques would have certainly improved the Turtle.py project. Learning flow control at this stage was very important because nearly all of our future projects would utilize this skill.
 
 Week 2 program(s) found in repository below:
--Tree exercise.py
+- Tree exercise.py
 
 ### Week 3
 
 Here is where everything starts coming together.  The programs we developed implemented techniques that accepted input from the user and, depending on the input, the program made decisions as to how it would behave.  The 
 
 Week 3 program(s) found in repository below:
--Rock_Paper_Scissors.py
--pwd_generator.py
+- Rock_Paper_Scissors.py
+- pwd_generator.py
 
 ### Week 4
 
 Week 4 program(s) found in repository below:
--Comma_code.py
--collatz.py
+- Comma_code.py
+- collatz.py
 
 ### Week 5
 
 Week 5 program(s) found in repository below:
--part_1.py
--part_2.py
--part_3.py
--part_4.py
--part_5.py
--part_6.py
+- part_1.py
+- part_2.py
+- part_3.py
+- part_4.py
+- part_5.py
+- part_6.py
 
 ### Week 6
 
@@ -71,7 +71,7 @@ def decrypt (string):
 There really was not one single problem that we encountered because if we were unsure as to how to complete or develop an idea, we were able to find help on the internet.  Our password manager was extremely important because we were able to implement all of the different things we had learned previously.  I would hope that when reviewing this code and comparing it to my Turtle.py program, it would be easy to see the evolution from my weakest to strongest pieces.
 
 Week 6 program(s) found in repository below:
--pw.py
+- pw.py
 
 
 #### [Unit 1 Repository](https://github.com/pacman715/python_fundamentals/tree/master/Unit%201)

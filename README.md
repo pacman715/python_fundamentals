@@ -12,8 +12,14 @@ As one might imagine, the first week of the class discussed how to develop your 
 
 ### Week 2
 
+In this week, we continued to build upon our simple print statements and stared adding logic and conditional statements buy studying flow control.  Understanding flow control is very important because this is when you start to think like a program would, per se. Flow control is displayed in "if - then" statements as well as "for" and "while" loops.  As mentioned before, these techniques would have certainly improved the Turtle.py project. Learning flow control at this stage was very important because nearly all of our future projects would utilize this skill.
+
+### Week 3
+
+Here is where everything starts coming together.  The programs we developed implemented techniques that accepted input from the user and, depending on the input, the program made decisions as to how it would behave.  The 
 
 
+#### [Unit 1 Repository](https://github.com/pacman715/python_fundamentals/tree/master/Unit%201)
 • Which piece in your portfolio are you most proud of? Why?
 • What piece would you like to remove from this collection? Why?
 • What makes this your best piece?

@@ -9,38 +9,42 @@ While the program is rudementary, it utilizes all of the skills that were taught
 As one might imagine, the first week of the class discussed how to develop your first program.  As in most programming classes, one of the first programs developed is 'Hello World', in which you print the words Hello World.  In Python, this is achieved througn the 'print' statement.  The Week 1 project called for the use of the Turtle graphic system.  While reviewing the code, you might notice that each line  appears to be redundant of the next.  This being said, I would like to most improve this program with techniques learned in week two, namely the use of for and while loops.
 
 Week 1 program(s) found in repository below:
-- Turtle.py
+- Turtle.py draws a shape using turtle
 
 ### Week 2
 
 In this week, we continued to build upon our simple print statements and stared adding logic and conditional statements buy studying flow control.  Understanding flow control is very important because this is when you start to think like a program would, per se. Flow control is displayed in "if - then" statements as well as "for" and "while" loops.  As mentioned before, these techniques would have certainly improved the Turtle.py project. Learning flow control at this stage was very important because nearly all of our future projects would utilize this skill.
 
 Week 2 program(s) found in repository below:
-- Tree exercise.py
+- Tree exercise.py uses math to preduct the number of trees in the city of Sacramento
 
 ### Week 3
 
-Here is where everything starts coming together.  The programs we developed implemented techniques that accepted input from the user and, depending on the input, the program made decisions as to how it would behave.  The 
+Here is where everything starts coming together.  The programs we developed implemented techniques that accepted input from the user and, depending on the input, the program made decisions as to how it would behave.  The introduction to lists was very useful in building programs that reference values based on their indices.
 
 Week 3 program(s) found in repository below:
-- Rock_Paper_Scissors.py
-- pwd_generator.py
+- Rock_Paper_Scissors.py takes user input and plays roshambo with the user
+- pwd_generator.py uses lists and generates a password complying to XKCD standards
 
 ### Week 4
 
+Building upon what we learned in week 3, we continued with string manipulation and evaluation.  A very valuable tool we learned was how to build functions.  This was very important as functions allowed us to build code one time and reference the function when needed in the program making our code more streamlined.
+
 Week 4 program(s) found in repository below:
-- Comma_code.py
-- collatz.py
+- Comma_code.py displays the items of a list separated by a comma
+- collatz.py uses a function to accept user data and provides output and introduces try except error trapping
 
 ### Week 5
 
+Continuing on with string manipulation and evaluation, we learned about dictionaries and how to build ciphers and to decrypt them.  This is the meat of our Unit 1 project.  The programs for Week 5 use different methods to evaluate text and transform it into coded or decoded text.  The use of user supplied information as well as dictionaries, lists, and functions were very important in building each part.
+
 Week 5 program(s) found in repository below:
-- part_1.py
-- part_2.py
-- part_3.py
-- part_4.py
-- part_5.py
-- part_6.py
+- part_1.py uses a dictionary to decode a phrase with the substitution method
+- part_2.py decodes a phrase using a Caesar cipher
+- part_3.py decodes a phrase using a Caesar cipher with all of the rotations
+- part_4.py encrypts a phrase
+- part_5.py decodes a phrase
+- part_6.py gives the user the opportunity to enter their own encryption key and encrypts and decodes a phrase
 
 ### Week 6
 
